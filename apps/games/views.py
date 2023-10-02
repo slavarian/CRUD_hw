@@ -8,5 +8,3 @@ class GameView(CRUDView):
     form = CreateForm
     template_create = 'create_game.html'
     template_list = 'list_game.html'
-
-
